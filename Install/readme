@@ -1,1 +1,2 @@
-Instructions here for use on school system or on personal PC if you are trying to avoid the cmd line
+Instructions here for use on school system or on personal PC if you are trying to avoid the cmd line.
+If you rename Start PyQt5 Designer.py to end with .pyw, it will launch the designer without having the Python console open.
